@@ -1,5 +1,6 @@
 # Dictionary App
-Here's my dictionary app, which defines common words. Works on CLI.
+Here's a very simple and static dictionary app, which defines most common words. 
+NOTE: It works only on CLI.
 ```
 IMPORTANT! You must have Python3 or above installed on your machine to use this software!
 ```
